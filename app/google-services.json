@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "950669045927",
+    "firebase_url": "https://openclass-3c889.firebaseio.com",
+    "project_id": "openclass-3c889",
+    "storage_bucket": "openclass-3c889.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950669045927:android:9759604cd63c99ac",
+        "android_client_info": {
+          "package_name": "io.github.umangjpatel.openclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950669045927-jbrt442068amjj4nsbmv5td9g6imimuo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.umangjpatel.openclass",
+            "certificate_hash": "0dca42257b143c5e19ea962cdb2f5b210e8806fd"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARloNCIkcAcrxLhkx20lidAUYAzMqXqBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950669045927-g7pnc83eqikrrmnrja42u4ns49vbrdqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
